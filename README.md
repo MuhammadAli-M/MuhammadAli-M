@@ -1,4 +1,31 @@
-### Hi there 👋
+### Hi, I am Muhammad Adam 👋
+
+### iOS Software Engineer, Striving for writing clean and high-performing software.
+
+- +3 years in iOS Software Development.
+- Proficient in Swift (+3 years), Objective-C (+2 years).
+- Experienced in
+  - Threading
+  - Offline Storage
+  - Bluetooth Communication 
+  - Debugging 
+  - OOP
+  - Design Patterns
+  - iOS SDK Development
+  - Unit Testing
+  - RESTful APIs
+  - Instruments
+  - Git
+
+- Familiar with 
+  - Push Notifications
+  - Security concepts and digital signing and verification
+  - Core Data
+  - Core Animation.
+  - low-level C-based libraries.
+
+- Care for Code quality, Clean Code.
+- Invest in design skills
 
 <!--
 **MuhammadAli-M/MuhammadAli-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
