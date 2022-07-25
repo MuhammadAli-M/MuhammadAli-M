@@ -3,8 +3,17 @@
 
 ### Hi, I am Muhammad Adam 👋
 
-### iOS Software Engineer, Striving for writing clean and high-performing software.
+### Software Engineer, Striving for writing clean and high-performing software.
 
+#### Backend
+- Experienced in 
+  - Building REST APIs
+  - Kotlin
+  - MongoDB
+  - Spring Boot
+  - Unit and Integration Testing
+
+#### iOS
 - +3 years in iOS Software Development.
 - Proficient in Swift (+3 years), Objective-C (+2 years).
 - Experienced in
